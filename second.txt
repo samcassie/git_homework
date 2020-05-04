@@ -1,2 +1,2 @@
 this is second
-edited second text file!
+edited second text file
